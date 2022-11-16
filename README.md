@@ -6,6 +6,7 @@ See below a list of useful websites and other resources related to Bitcoin Cash.
 
 - [bitcoincash.org](https://bitcoincash.org) - Original BCH site
 - [bch.info](https://bch.info) - General information about Bitcoin Cash, nodes, wallets, exchanges plus more
+- [awesomebitcoin.cash](https://awesomebitcoin.cash/) - Just another overview of Bitcoin Cash projects & resources
 
 ## Node software
 
@@ -41,3 +42,4 @@ See below a list of useful websites and other resources related to Bitcoin Cash.
 - [memo.cash](https://memo.cash) - Bitcoin Cash social network (alternative for Twitter)
 - [smartbch.org](https://smartbch.org/) - SmartBCH is a sidechain for Bitcoin Cash
   - [smartscan.cash](https://www.smartscan.cash/) - SmartBCH Explorer
+- [helpme.cash](https://helpme.cash/) - Bitcoin Cash overview page
