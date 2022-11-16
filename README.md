@@ -36,9 +36,14 @@ See below a list of useful websites and other resources related to Bitcoin Cash.
 
 ### Mobile
 
+- [electroncash.org](https://electroncash.org/) - Android and iOS support
+- [wallet.bitcoin.com](https://wallet.bitcoin.com/)
 - [paytaca.com](https://www.paytaca.com/) 
 
 ### Desktop
+
+- [electroncash.org](https://electroncash.org/) - Windows, Mac OSX and Linux support
+
 
 ### Command-line
 
