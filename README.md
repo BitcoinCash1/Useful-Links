@@ -34,7 +34,15 @@ See below a list of useful websites and other resources related to Bitcoin Cash.
 
 ## Wallet software
 
+### Mobile
+
 - [paytaca.com](https://www.paytaca.com/) 
+
+### Desktop
+
+### Command-line
+
+### Browser
 
 ## Other sites
 
