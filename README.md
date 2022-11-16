@@ -37,3 +37,4 @@ See below a list of useful websites and other resources related to Bitcoin Cash.
 ## Other sites
 
 - [read.cash](https://read.cash/) - Blogging platform for the Bitcoin Cash community
+- [memo.cash](https://memo.cash) - Bitcoin Cash social network (alternative for Twitter)
