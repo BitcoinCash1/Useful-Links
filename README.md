@@ -12,7 +12,7 @@ See below a list of useful websites and other resources related to Bitcoin Cash.
 - [bitcoinverde.org](https://bitcoinverde.org) - [Source code](https://github.com/SoftwareVerde/bitcoin-verde) - Bitcoin Verde Java full-node implementation
 - [bitcoinunlimited.info](https://www.bitcoinunlimited.info) - [Source code](https://gitlab.com/bitcoinunlimited/BCHUnlimited) - Bitcoin Unlimited written in C++
 - [bchd.cash](https://bchd.cash) - [Source code](https://github.com/gcash/bchd) - BCHD written in Go 
-- [kth](https://kth.cash/) - [Source code](https://github.com/k-nuth/kth) - Knuth written in C++
+- [kth.cash](https://kth.cash/) - [Source code](https://github.com/k-nuth/kth) - Knuth written in C++
 
 ## Explorers / Stats
 
