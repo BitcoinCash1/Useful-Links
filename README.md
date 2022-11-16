@@ -4,6 +4,7 @@ See below a list of useful websites and other resources related to Bitcoin Cash.
 
 ## General websites
 
+- [bitcoincash.org](https://bitcoincash.org) - Original BCH site
 - [bch.info](https://bch.info) - General information about Bitcoin Cash, nodes, wallets, exchanges plus more
 
 ## Node software
@@ -24,5 +25,15 @@ See below a list of useful websites and other resources related to Bitcoin Cash.
 - [blockchair.com](https://blockchair.com/bitcoin-cash)
 - [explorer.btc.com](https://explorer.btc.com/bch)
 
+## Protocol Reference
+
+- [documentation.cash](https://documentation.cash/)
+- [reference.cash](https://reference.cash/)
+- [flowee.org](https://flowee.org/docs/spec/)
 
 ## Wallet software
+
+
+## Other sites
+
+- [read.cash](https://read.cash/) - Blogging platform for the Bitcoin Cash community
