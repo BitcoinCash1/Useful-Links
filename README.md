@@ -33,6 +33,7 @@ See below a list of useful websites and other resources related to Bitcoin Cash.
 
 ## Wallet software
 
+- [paytaca.com](https://www.paytaca.com/) 
 
 ## Other sites
 
