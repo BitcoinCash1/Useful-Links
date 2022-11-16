@@ -36,14 +36,17 @@ See below a list of useful websites and other resources related to Bitcoin Cash.
 
 ### Mobile
 
-- [electroncash.org](https://electroncash.org/) - Android and iOS support
-- [wallet.bitcoin.com](https://wallet.bitcoin.com/)
-- [paytaca.com](https://www.paytaca.com/) 
+- [electroncash.org](https://electroncash.org/) - Android and iOS support (+ direct APK)
+- [wallet.bitcoin.com](https://wallet.bitcoin.com/)- Android and iOS support (+direct APK on GitHub)
+- [zapit](https://www.zapit.io) - Android and iOS support (+ direct APK)
+- [paytaca.com](https://www.paytaca.com/) - Android (iOS version in still in Beta)
+- [edge.app](https://edge.app/) - Android and iOS support (+ direct APK)
 
 ### Desktop
 
 - [electroncash.org](https://electroncash.org/) - Windows, Mac OSX and Linux support
-
+- [trezor.io](https://trezor.io/trezor-suite) - Windows, Mac OSX and Linux support
+- [leger.com](https://www.ledger.com/ledger-live) - Windows, Mac OSX and Linux support
 
 ### Command-line
 
