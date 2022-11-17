@@ -9,7 +9,7 @@ See below a list of useful websites and other resources related to Bitcoin Cash.
 - [bitcoincashresearch.org](https://bitcoincashresearch.org/) - Bitcoin Cash Research forum
 - [awesomebitcoin.cash](https://awesomebitcoin.cash/) - Just another overview of Bitcoin Cash projects & resources
 
-## Other version control systems
+### Other version control systems
 
 - [gitlab.com](https://gitlab.com/bitcoincash1)
 - [codeberg.org](https://codeberg.org/bitcoincash)
