@@ -28,6 +28,7 @@ See below a list of useful websites and other resources related to Bitcoin Cash.
 - [blockchain.com](https://www.blockchain.com/explorer/assets/bch)
 - [bitinfocharts.com](https://bitinfocharts.com/bitcoin%20cash/explorer/)
 - [explorer.bitcoinunlimited.info](https://explorer.bitcoinunlimited.info)
+- [mempool.jhoenicke.de](https://mempool.jhoenicke.de/#BCH,4d,fee)
 - [bch.loping.net](https://bch.loping.net)
 - [blockexplorer.one](https://blockexplorer.one/bitcoin-cash/mainnet)
 - [blockchair.com](https://blockchair.com/bitcoin-cash)
