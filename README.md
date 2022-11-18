@@ -7,6 +7,7 @@ See below a list of useful websites and other resources related to Bitcoin Cash.
 - [bitcoincash.org](https://bitcoincash.org) - Original BCH site
 - [bch.info](https://bch.info) - General information about Bitcoin Cash, nodes, wallets, exchanges plus more
 - [bitcoincashresearch.org](https://bitcoincashresearch.org/) - Bitcoin Cash Research forum
+- [bitcoinmap.cash](https://bitcoinmap.cash/) - Bitcoin Cash Map
 - [awesomebitcoin.cash](https://awesomebitcoin.cash/) - Just another overview of Bitcoin Cash projects & resources
 
 ### Other version control systems
