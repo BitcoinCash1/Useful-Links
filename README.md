@@ -60,6 +60,9 @@ See below a list of useful websites and other resources related to Bitcoin Cash.
 
 ### Browser
 
+- [bchn-wallet.fullstack.cash](https://bchn-wallet.fullstack.cash/) - [Source code](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - Static Javascript Web-wallet without login / telemetry
+- [os.cash](https://pos.cash/) - [Source code](https://github.com/softwareverde/pos-cash) - Web-based point of sale client
+
 ## Other sites
 
 - [read.cash](https://read.cash/) - Blogging platform for the Bitcoin Cash community
