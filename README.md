@@ -1,6 +1,6 @@
 # Useful websites & resources
 
-See below a list of useful websites and other resources related to Bitcoin Cash.
+See below a list of useful websites, software and other resources related to Bitcoin Cash.
 
 ## General websites
 
@@ -10,11 +10,6 @@ See below a list of useful websites and other resources related to Bitcoin Cash.
 - [bitcoinmap.cash](https://bitcoinmap.cash/) - Bitcoin Cash Map
 - [cashnodes.io](https://cashnodes.io/) - Bitcoin Cash Nodes overview
 - [awesomebitcoin.cash](https://awesomebitcoin.cash/) - Just another overview of Bitcoin Cash projects & resources
-
-### Other version control systems
-
-- [gitlab.com](https://gitlab.com/bitcoincash1)
-- [codeberg.org](https://codeberg.org/bitcoincash)
 
 ## Node software
 
@@ -64,6 +59,11 @@ See below a list of useful websites and other resources related to Bitcoin Cash.
 - [bchn-wallet.fullstack.cash](https://bchn-wallet.fullstack.cash/) - [Source code](https://github.com/Permissionless-Software-Foundation/gatsby-ipfs-web-wallet) - Static Javascript Web-wallet without login / telemetry
 - [pos.cash](https://pos.cash/) - [Source code](https://github.com/softwareverde/pos-cash) - Web-based point of sale client
 
+## Simple Payment Verification (SPV)
+
+- [Fulcrum](https://github.com/cculianu/Fulcrum)
+- [Rostrum](https://gitlab.com/bitcoinunlimited/rostrum)
+
 ## Other sites
 
 - [read.cash](https://read.cash/) - Blogging platform for the Bitcoin Cash community
@@ -71,3 +71,8 @@ See below a list of useful websites and other resources related to Bitcoin Cash.
 - [smartbch.org](https://smartbch.org/) - SmartBCH is a sidechain for Bitcoin Cash
   - [smartscan.cash](https://www.smartscan.cash/) - SmartBCH Explorer
 - [helpme.cash](https://helpme.cash/) - Bitcoin Cash overview page
+
+### Other Bitcoin Cash git projects
+
+- [gitlab.com](https://gitlab.com/bitcoincash1)
+- [codeberg.org](https://codeberg.org/bitcoincash)
