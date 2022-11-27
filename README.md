@@ -8,6 +8,7 @@ See below a list of useful websites, software and other resources related to Bit
 - [bch.info](https://bch.info) - General information about Bitcoin Cash, nodes, wallets, exchanges plus more
 - [bitcoincashresearch.org](https://bitcoincashresearch.org/) - Bitcoin Cash Research forum
 - [bitcoinmap.cash](https://bitcoinmap.cash/) - Bitcoin Cash Map
+- [map.bitcoin.com](https://map.bitcoin.com/) - Also a Bitcoin Cash Map
 - [cashnodes.io](https://cashnodes.io/) - Bitcoin Cash Nodes overview
 - [awesomebitcoin.cash](https://awesomebitcoin.cash/) - Just another overview of Bitcoin Cash projects & resources
 
