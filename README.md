@@ -74,6 +74,10 @@ See below a list of useful websites, software and other resources related to Bit
   - [smartscan.cash](https://www.smartscan.cash/) - SmartBCH Explorer
 - [helpme.cash](https://helpme.cash/) - Bitcoin Cash overview page
 
+## Video Channels
+
+- [BitcoinCashPodcast](https://www.youtube.com/@BitcoinCashPodcast)
+
 ### Other Bitcoin Cash git projects
 
 - [gitlab.com](https://gitlab.com/bitcoincash1)
