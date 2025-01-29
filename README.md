@@ -11,6 +11,7 @@ See below a list of useful websites, software and other resources related to Bit
 - [map.bitcoin.com](https://map.bitcoin.com/) - Also a Bitcoin Cash Map
 - [cashnodes.io](https://cashnodes.io/) - Bitcoin Cash Nodes overview
 - [awesomebitcoin.cash](https://awesomebitcoin.cash/) - Just another overview of Bitcoin Cash projects & resources
+- [minisatoshi.cash](https://minisatoshi.cash) - Another overview website of projects, social links and more
 
 ## Node software
 
