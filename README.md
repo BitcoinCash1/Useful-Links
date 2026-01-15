@@ -25,7 +25,7 @@ See below a list of useful websites, software and other resources related to Bit
 ## Explorers / Stats
 
 - [blockchain.com](https://www.blockchain.com/explorer/assets/bch)
-- [explorer.melroy.org](https://explorer.melroy.org/)
+- [bchexplorer.cash](https://bchexplorer.cash/)
 - [bitinfocharts.com](https://bitinfocharts.com/bitcoin%20cash/explorer/)
 - [explorer.bitcoinunlimited.info](https://explorer.bitcoinunlimited.info)
 - [mempool.jhoenicke.de](https://mempool.jhoenicke.de/#BCH,4d,fee)
