@@ -49,6 +49,7 @@ See below a list of useful websites, software and other resources related to Bit
 - [zapit](https://www.zapit.io) - Android and iOS support (+ direct APK)
 - [paytaca.com](https://www.paytaca.com/) - Android (iOS version in still in Beta)
 - [edge.app](https://edge.app/) - Android and iOS support (+ direct APK)
+- [selene.cash](https://selene.cash/)  - Android and iOS support (+ direct APK)
 
 ### Desktop
 
