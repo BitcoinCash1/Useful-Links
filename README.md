@@ -20,13 +20,13 @@ See below a list of useful websites, software and other resources related to Bit
 - [flowee.org](https://flowee.org/products/hub/) - [Source code](https://codeberg.org/Flowee/thehub/) - Flowee The Hub written in C++
 - [bchd.cash](https://bchd.cash) - [Source code](https://github.com/gcash/bchd) - BCHD written in Go 
 - [kth.cash](https://kth.cash/) - [Source code](https://github.com/k-nuth/kth) - Knuth written in C++
+- [bitcoinunlimited.info](https://www.bitcoinunlimited.info) - [Source code](https://gitlab.com/bitcoinunlimited/BCHUnlimited) - Bitcoin Unlimited written in C++ (no longer in development)
 
 ## Explorers / Stats
 
 - [bchexplorer.cash](https://bchexplorer.cash/)
 - [blockchain.com](https://www.blockchain.com/explorer/assets/bch)
 - [bitinfocharts.com](https://bitinfocharts.com/bitcoin%20cash/explorer/)
-- [explorer.bitcoinunlimited.info](https://explorer.bitcoinunlimited.info)
 - [mempool.jhoenicke.de](https://mempool.jhoenicke.de/#BCH,4d,fee)
 - [bch.loping.net](https://bch.loping.net)
 - [blockexplorer.one](https://blockexplorer.one/bitcoin-cash/mainnet)
@@ -66,7 +66,7 @@ See below a list of useful websites, software and other resources related to Bit
 ## Simple Payment Verification (SPV)
 
 - [Fulcrum](https://github.com/cculianu/Fulcrum)
-- [Rostrum](https://gitlab.com/bitcoinunlimited/rostrum)
+- [Rostrum](https://gitlab.com/nexa/rostrum) (part of Nexa project now, but still supports BCHN)
 
 ## Other sites
 
