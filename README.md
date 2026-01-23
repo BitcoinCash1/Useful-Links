@@ -17,7 +17,6 @@ See below a list of useful websites, software and other resources related to Bit
 
 - [bitcoincashnode.org](https://bitcoincashnode.org) - [Source code](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) - Bitcoin Cash Node (a.k.a. BCHN) written in C++
 - [bitcoinverde.org](https://bitcoinverde.org) - [Source code](https://github.com/SoftwareVerde/bitcoin-verde) - Bitcoin Verde Java full-node implementation
-- [bitcoinunlimited.info](https://www.bitcoinunlimited.info) - [Source code](https://gitlab.com/bitcoinunlimited/BCHUnlimited) - Bitcoin Unlimited written in C++
 - [flowee.org](https://flowee.org/products/hub/) - [Source code](https://codeberg.org/Flowee/thehub/) - Flowee The Hub written in C++
 - [bchd.cash](https://bchd.cash) - [Source code](https://github.com/gcash/bchd) - BCHD written in Go 
 - [kth.cash](https://kth.cash/) - [Source code](https://github.com/k-nuth/kth) - Knuth written in C++
@@ -32,7 +31,7 @@ See below a list of useful websites, software and other resources related to Bit
 - [bch.loping.net](https://bch.loping.net)
 - [blockexplorer.one](https://blockexplorer.one/bitcoin-cash/mainnet)
 - [blockchair.com](https://blockchair.com/bitcoin-cash)
-- [explorer.btc.com](https://explorer.btc.com/bch)
+- [explorer.bch.ninja](https://explorer.bch.ninja/)
 
 ## Protocol Reference
 
