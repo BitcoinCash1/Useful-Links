@@ -14,6 +14,12 @@ See below a list of useful websites, software and other resources related to Bit
 - [awesomebitcoin.cash](https://awesomebitcoin.cash/) - Just another overview of Bitcoin Cash projects & resources
 - [minisatoshi.cash](https://minisatoshi.cash) - Another overview website of projects, social links and more
 
+## Social links
+
+- [Bitcoin Cash Telegram group](https://t.me/bitcoincash) (same as [bchchannel](https://t.me/bchchannel)) - One of the BCH Telegram groups
+  - [Telegram group for price talks](https://t.me/bchpricechannel) - Telegram group for BCH price and trading related discussions
+- [BCH on Reddit](https://www.reddit.com/r/Bitcoincash/) - primary Bitcoin Cash Reddit channel
+
 ## Node software
 
 - [bitcoincashnode.org](https://bitcoincashnode.org) - [Source code](https://gitlab.com/bitcoin-cash-node/bitcoin-cash-node) - Bitcoin Cash Node (a.k.a. BCHN) written in C++
