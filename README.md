@@ -13,6 +13,7 @@ See below a list of useful websites, software and other resources related to Bit
 - [cashnodes.io](https://cashnodes.io/) - Bitcoin Cash Nodes overview
 - [awesomebitcoin.cash](https://awesomebitcoin.cash/) - Just another overview of Bitcoin Cash projects & resources
 - [minisatoshi.cash](https://minisatoshi.cash) - Another overview website of projects, social links and more
+- [bitcoiniscash.org](https://bitcoiniscash.org) - Background information and getting started
 
 ## Social links
 
